@@ -1,3 +1,4 @@
 This is a test
 These modifications were made in new-test branch  
 New line test
+This line is in new-test branch
