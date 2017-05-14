@@ -1,4 +1,7 @@
 new file
 this is a new line 
 this is a one more new line
- 
+to pratice git
+
+
+
